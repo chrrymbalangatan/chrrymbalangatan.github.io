@@ -15,7 +15,7 @@ body {
     background-color: #f4f5f2;
     background-image:
         linear-gradient(rgba(244, 245, 242, 0.80), rgba(244, 245, 242, 0.80)),
-        url("../images/pond.jpg");
+        url("pond.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
