@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Simple Portfolio",
+    "description": "A simple personal portfolio presenting my profile, skills, and academic work.",
+    "technologies": "HTML, CSS",
+    "role": "Designed and developed the website.",
+    "link": "https://github.com/chrrymbalangatan"
+  },
+  {
+    "title": "Simple Calculator",
+    "description": "A simple calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.",
+    "technologies": "HTML, CSS, JavaScript",
+    "role": "Designed the calculator interface and wrote the JavaScript logic for the calculations and button actions.",
+    "link": "https://github.com/chrrymbalangatan"
+  },
+  {
+    "title": "Login Page",
+    "description": "A simple login page with fields for a username and password, styled with CSS.",
+    "technologies": "HTML, CSS",
+    "role": "Designed and styled the login form layout using HTML and CSS.",
+    "link": "https://github.com/chrrymbalangatan"
+  }
+]
