@@ -124,13 +124,13 @@ function setupContactForm() {
         const email = form.visitorEmail.value.trim();
         const message = form.visitorMessage.value.trim();
 
-        if (name.length < 2 || message.length < 10 || !emailPattern.test(email)) {
+        if (name.length < 2 || message.length < 2 || !emailPattern.test(email)) {
             feedback.textContent = "Please fill in all fields correctly.";
             feedback.className = "error";
             return;
         }
 
-        feedback.textContent = "Message has been sent. Thank you, " + name;
+        feedback.textContent = "Your message has been sent. Thank you, " + name;
         feedback.className = "success";
         form.reset();
     });
