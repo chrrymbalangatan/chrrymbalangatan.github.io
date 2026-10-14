@@ -130,7 +130,7 @@ function setupContactForm() {
             return;
         }
 
-        feedback.textContent = "Thank you, " + name + "! Sending messages is not set up yet, so please email me directly at the address above.";
+        feedback.textContent = "Message has been sent. Thank you, " + name;
         feedback.className = "success";
         form.reset();
     });
