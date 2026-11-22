@@ -14,10 +14,10 @@
     "link": "https://github.com/chrrymbalangatan/Simple-Calculator"
   },
   {
-    "title": "Login Page",
-    "description": "A simple login page with fields for a username and password, styled with CSS.",
-    "technologies": "HTML, CSS",
-    "role": "Designed and styled the login form layout using HTML and CSS.",
-    "link": "https://github.com/chrrymbalangatan/Login-Page"
+    "title": "Small Store Inventory",
+    "description": "Inventory Stock is a simple mobile app that helps small store owners keep track of their everyday products. You can add items, update stock counts as you sell or restock, and record prices.",
+    "technologies": "HTML, CSS, Javascript",
+    "role": "Designed to helps corner store owners count items and know when to restock.",
+    "link": "https://github.com/chrrymbalangatan/Small-Store-Inventory"
   }
 ]
